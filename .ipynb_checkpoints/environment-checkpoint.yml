@@ -3,7 +3,7 @@ dependencies:
   - ipykernel=4.10
   - python=2.7
   - numpy=1.16
-  # - h5py=2.10
+  - h5py=2.9
   # - json=2.0
   - decorator=4.3
   
