@@ -6,4 +6,6 @@ dependencies:
   - h5py=2.9
   # - json=2.0
   - decorator=4.3
+  - scipy=1.2
+  - matplotlib=2.0
   
